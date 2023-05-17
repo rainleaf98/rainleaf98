@@ -3,7 +3,6 @@
   
 ![header](https://capsule-render.vercel.app/api?type=Soft&text=RAINLEAF&color=000000&fontColor=ffffff&fontSize=30)
  <br/>
- <br/>
    <br/>
  ####  🖐️ About me 🖐️
  Hi, I'm an Analog circuit designer. I'm studying Verilog HDL and C language as a hobby.
@@ -22,6 +21,7 @@
     <br/>
     <br/>
     <br/>
+   <br/>
    <br/>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rainleaf98&show_icons=true&theme=dark)
 </div>
