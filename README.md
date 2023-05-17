@@ -5,7 +5,6 @@
  <br/>
  <br/>
  ####  🖐️ About me 🖐️
- <br/>
  Hi, I'm Analog circuit desingner. I'm studying Verilog HDL and C language as a hobby.
  <br/>
  ####  📌 Purpose of this GitHub 📌
