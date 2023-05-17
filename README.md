@@ -5,7 +5,7 @@
  <br/>
    <br/>
  ####  🖐️ About me 🖐️
- Hi, I'm an Analog circuit designer. I'm studying Verilog HDL and C language as a hobby.
+ Hello, I'm an Analog circuit designer. I'm studying Verilog HDL and C language as a hobby.
 <br/>
   I love electronic devices and IT news.
 <br/>
