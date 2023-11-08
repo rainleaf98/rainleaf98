@@ -17,7 +17,7 @@
   Grow a little bit every day, even if it's just a little bit.
     <br/>
   <br/>
-   ####  ✏️ What I'm going to study ✏️
+   ####  ✏️ What I study ✏️
   <img src="https://img.shields.io/badge/Verilog HDL-0077FF?style=for-the-badge&logo=v&logoColor=white">
       <br/>
   <img src="https://img.shields.io/badge/C Language-A8B9CC?style=for-the-badge&logo=c&logoColor=black"> 
