@@ -31,5 +31,3 @@ I'm an Analog circuit designer. I'm studying Verilog HDL and C language as a hob
 </div>
   <br/>
   <br/>
-  <br/>
-  <br/>
