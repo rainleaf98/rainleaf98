@@ -18,6 +18,7 @@ I'm an Analog circuit designer. I'm studying Verilog HDL and C language as a hob
 <br/>
 <br/>
   <br/>
+  <br/>
 ✏️ What I'm Studying ✏️<br/><br/>
   <img src="https://img.shields.io/badge/Verilog HDL-0077FF?style=for-the-badge&logo=v&logoColor=white">
       <br/>
